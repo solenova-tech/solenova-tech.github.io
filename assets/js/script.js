@@ -10,7 +10,7 @@ Last change:    00/00/00
 
 	"use strict";
 
-	var OriXy = {
+	var Solenova = {
 		init: function() {
 			this.Basic.init();  
 		},
@@ -1324,7 +1324,7 @@ Last change:    00/00/00
 		}
 	}
 	jQuery(document).ready(function (){
-		OriXy.init();
+		Solenova.init();
 	});
 
 })();
